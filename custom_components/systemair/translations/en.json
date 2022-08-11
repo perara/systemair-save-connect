@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "flow_title": "SystemAIR Authentication",
+        "data": {
+          "email": "Email",
+          "password": "Password",
+          "scan_interval": "Scan Interval",
+          "authentication_interval": "Authentication Refresh Interval",
+          "cloud_push": "Cloud push"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not connect to the SystemAIR Services",
+      "invalid_auth": "Authentication Failed",
+      "unknown": "Unknown Error"
+    },
+    "abort": {
+      "already_configured": "The integration is already configured!"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "domain": "systemair",
+  "name": "Systemair",
+  "config_flow": true,
+  "issue_tracker": "https://github.com/perara/systemair-saveconnect/issues",
+  "documentation": "https://github.com/perara/systemair-saveconnect",
+  "dependencies": [
+
+  ],
+  "codeowners": ["@perara"],
+  "requirements": [
+    "python-systemair-saveconnect==3.0.0rc9"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "3.0.0"
+}
