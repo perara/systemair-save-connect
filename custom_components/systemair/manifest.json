@@ -9,7 +9,7 @@
   ],
   "codeowners": ["@perara"],
   "requirements": [
-    "python-systemair-saveconnect==3.0.0rc9"
+    "python-systemair-saveconnect==3.0.0rc12"
   ],
   "iot_class": "cloud_polling",
   "version": "3.0.0"
