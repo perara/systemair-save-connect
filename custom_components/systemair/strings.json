@@ -1,8 +1,8 @@
 {
   "config": {
+    "flow_title": "Systemair Authentication",
     "step": {
       "user": {
-        "flow_title": "Systemair Authentication",
         "data": {
           "email": "[%key:common::config_flow::data::email%]",
           "password": "[%key:common::config_flow::data::password%]",
